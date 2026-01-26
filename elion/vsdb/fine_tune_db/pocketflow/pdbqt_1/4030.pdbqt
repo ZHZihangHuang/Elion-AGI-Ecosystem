@@ -1,0 +1,29 @@
+REMARK  Name = No_4030-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  N_7
+REMARK    2  A    between atoms: C_9  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL A   1     -29.965  -0.735  29.890  0.00  0.00    -0.307 N 
+ATOM      2  C   UNL A   1     -30.534  -0.031  29.006  0.00  0.00    +0.102 C 
+ATOM      3  C   UNL A   1     -31.853  -0.402  28.725  0.00  0.00    +0.123 C 
+ATOM      4  C   UNL A   1     -30.735  -1.568  30.714  0.00  0.00    +0.091 C 
+ATOM      5  C   UNL A   1     -32.047  -1.831  30.479  0.00  0.00    +0.022 C 
+ATOM      6  C   UNL A   1     -32.578  -1.230  29.481  0.00  0.00    +0.015 C 
+ENDROOT
+BRANCH   1   8
+ATOM      7  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.015 A 
+ATOM      8  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.048 A 
+ATOM      9  C   UNL A   1     -26.546  -0.876  28.850  0.00  0.00    +0.001 A 
+ATOM     10  C   UNL A   1     -25.804  -1.032  30.057  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL A   1     -27.944  -0.987  31.207  0.00  0.00    +0.015 A 
+ATOM     12  C   UNL A   1     -26.582  -1.039  31.223  0.00  0.00    +0.001 A 
+ENDBRANCH   1   8
+BRANCH   3  13
+ATOM     13  C   UNL A   1     -32.481   0.376  27.614  0.00  0.00    +0.366 C 
+ATOM     14  O   UNL A   1     -32.237   0.177  26.464  0.00  0.00    -0.246 OA
+ATOM     15  O   UNL A   1     -33.335   1.288  27.927  0.00  0.00    -0.246 OA
+ENDBRANCH   3  13
+TORSDOF 2

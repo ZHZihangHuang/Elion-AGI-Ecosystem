@@ -1,0 +1,31 @@
+MODEL 2190
+MODEL 1
+REMARK VINA RESULT:    -5.379      0.000      0.000
+REMARK INTER + INTRA:          -5.379
+REMARK INTER:                  -5.379
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_2190-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -23.462  -3.111  28.557  0.00  0.00    -0.273 OA
+ATOM      2  C   UNL A   1     -24.176  -2.315  28.987  0.00  0.00    +0.242 C 
+ATOM      3  C   UNL A   1     -23.904  -0.966  28.875  0.00  0.00    +0.094 C 
+ATOM      4  N   UNL A   1     -25.352  -2.640  29.815  0.00  0.00    -0.205 NA
+ATOM      5  C   UNL A   1     -23.353  -0.352  29.923  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL A   1     -23.983  -0.605  31.268  0.00  0.00    +0.038 C 
+ATOM      7  C   UNL A   1     -24.891  -1.851  31.167  0.00  0.00    +0.117 C 
+ATOM      8  C   UNL A   1     -24.892  -0.204  28.029  0.00  0.00    +0.011 C 
+ATOM      9  C   UNL A   1     -24.113   0.448  27.025  0.00  0.00    +0.004 C 
+ATOM     10  C   UNL A   1     -23.058   0.992  27.365  0.00  0.00    +0.037 C 
+ATOM     11  C   UNL A   1     -22.681   1.055  28.639  0.00  0.00    +0.164 C 
+ATOM     12  N   UNL A   1     -23.189   1.708  29.488  0.00  0.00    -0.114 NA
+ATOM     13  N   UNL A   1     -22.452  -0.151  29.144  0.00  0.00    -0.202 NA
+ATOM     14  C   UNL A   1     -23.184  -0.852  32.504  0.00  0.00    +0.003 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

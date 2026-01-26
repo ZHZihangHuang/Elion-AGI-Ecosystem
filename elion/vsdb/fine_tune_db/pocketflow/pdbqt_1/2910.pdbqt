@@ -1,0 +1,31 @@
+REMARK  Name = No_2910-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_9  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.006 A 
+ATOM      2  C   UNL A   1     -27.064  -0.119  28.608  0.00  0.00    -0.003 A 
+ATOM      3  C   UNL A   1     -26.972   0.714  27.506  0.00  0.00    -0.001 A 
+ATOM      4  C   UNL A   1     -25.820   1.491  27.116  0.00  0.00    -0.001 A 
+ATOM      5  C   UNL A   1     -25.750   2.319  26.023  0.00  0.00    +0.019 A 
+ATOM      6  C   UNL A   1     -26.826   2.218  25.137  0.00  0.00    +0.002 A 
+ATOM      7  C   UNL A   1     -27.922   1.471  25.369  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL A   1     -27.920   0.705  26.540  0.00  0.00    -0.000 A 
+ATOM      9  C   UNL A   1     -28.069  -1.585  30.146  0.00  0.00    +0.080 A 
+ATOM     10  C   UNL A   1     -26.893  -1.772  30.869  0.00  0.00    +0.006 A 
+ATOM     11  C   UNL A   1     -25.709  -1.180  30.466  0.00  0.00    -0.004 A 
+ATOM     12  C   UNL A   1     -25.760  -0.332  29.368  0.00  0.00    -0.018 A 
+ATOM     13  C   UNL A   1     -24.557   3.143  25.819  0.00  0.00    +0.099 A 
+ATOM     14  N   UNL A   1     -23.384   2.705  26.305  0.00  0.00    -0.243 NA
+ATOM     15  C   UNL A   1     -23.325   2.111  27.554  0.00  0.00    +0.095 A 
+ATOM     16  C   UNL A   1     -24.535   1.349  27.935  0.00  0.00    +0.001 A 
+ATOM     17  C   UNL A   1     -24.631   0.477  28.916  0.00  0.00    +0.054 C 
+ENDROOT
+BRANCH   9  18
+ATOM     18  C   UNL A   1     -29.282  -2.322  30.550  0.00  0.00    +0.388 C 
+ATOM     19  O   UNL A   1     -29.262  -3.491  30.883  0.00  0.00    -0.241 OA
+ATOM     20  O   UNL A   1     -30.436  -1.835  30.121  0.00  0.00    -0.241 OA
+ENDBRANCH   9  18
+TORSDOF 1

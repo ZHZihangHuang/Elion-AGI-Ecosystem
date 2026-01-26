@@ -1,0 +1,36 @@
+MODEL 2502
+MODEL 1
+REMARK VINA RESULT:    -6.964      0.000      0.000
+REMARK INTER + INTRA:          -6.964
+REMARK INTER:                  -6.964
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_2502-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -25.189   1.728  29.437  0.00  0.00    +0.067 A 
+ATOM      2  C   UNL A   1     -24.948   2.270  28.567  0.00  0.00    +0.143 A 
+ATOM      3  C   UNL A   1     -24.859   0.294  29.433  0.00  0.00    +0.144 A 
+ATOM      4  C   UNL A   1     -24.123  -0.277  28.353  0.00  0.00    +0.017 A 
+ATOM      5  C   UNL A   1     -24.149   1.939  27.356  0.00  0.00    +0.029 A 
+ATOM      6  C   UNL A   1     -23.832   0.614  27.311  0.00  0.00    +0.001 A 
+ATOM      7  F   UNL A   1     -25.255   3.679  28.571  0.00  0.00    -0.204 F 
+ATOM      8  C   UNL A   1     -23.783  -1.664  28.315  0.00  0.00    +0.056 C 
+ATOM      9  C   UNL A   1     -24.498  -2.626  28.959  0.00  0.00    -0.015 A 
+ATOM     10  C   UNL A   1     -24.124  -4.037  28.768  0.00  0.00    -0.004 A 
+ATOM     11  C   UNL A   1     -25.681  -2.349  29.635  0.00  0.00    +0.031 A 
+ATOM     12  C   UNL A   1     -26.587  -3.438  29.927  0.00  0.00    +0.003 A 
+ATOM     13  C   UNL A   1     -24.995  -5.056  29.158  0.00  0.00    -0.000 A 
+ATOM     14  C   UNL A   1     -26.202  -4.778  29.702  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL A   1     -27.899  -3.148  30.533  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL A   1     -27.970  -2.031  31.302  0.00  0.00    +0.003 A 
+ATOM     17  C   UNL A   1     -26.859  -1.187  31.373  0.00  0.00    +0.037 A 
+ATOM     18  C   UNL A   1     -25.822  -1.299  30.469  0.00  0.00    +0.145 A 
+ATOM     19  O   UNL A   1     -25.219  -0.244  30.549  0.00  0.00    -0.454 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

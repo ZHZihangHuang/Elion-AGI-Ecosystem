@@ -1,0 +1,33 @@
+REMARK  Name = No_491-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  O_9
+REMARK    2  A    between atoms: O_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -30.474   2.223  30.063  0.00  0.00    -0.452 OA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.042 A 
+ATOM      3  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.073 A 
+ATOM      4  C   UNL A   1     -28.196   0.348  28.055  0.00  0.00    +0.144 A 
+ATOM      5  C   UNL A   1     -29.019   1.350  28.378  0.00  0.00    +0.068 A 
+ATOM      6  C   UNL A   1     -29.411   0.180  30.378  0.00  0.00    +0.103 A 
+ATOM      7  C   UNL A   1     -29.606   1.250  29.619  0.00  0.00    +0.159 A 
+ATOM      8  F   UNL A   1     -27.535   0.338  26.848  0.00  0.00    -0.204 F 
+ATOM      9 CL   UNL A   1     -29.952  -0.156  31.991  0.00  0.00    -0.078 Cl
+ATOM     10 CL   UNL A   1     -28.201  -2.260  30.986  0.00  0.00    -0.081 Cl
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C   UNL A   1     -31.400   2.579  29.531  0.00  0.00    +0.157 A 
+ATOM     12  C   UNL A   1     -32.505   2.553  30.082  0.00  0.00    +0.105 A 
+ATOM     13  C   UNL A   1     -33.757   2.987  29.369  0.00  0.00    +0.099 A 
+ATOM     14  C   UNL A   1     -33.594   3.482  28.067  0.00  0.00    +0.152 A 
+ATOM     15  C   UNL A   1     -32.362   3.540  27.481  0.00  0.00    +0.034 A 
+ATOM     16  C   UNL A   1     -31.262   3.142  28.147  0.00  0.00    +0.041 A 
+ATOM     17 CL   UNL A   1     -35.257   2.987  30.104  0.00  0.00    -0.079 Cl
+ATOM     18  F   UNL A   1     -34.669   3.946  27.499  0.00  0.00    -0.203 F 
+ATOM     19 CL   UNL A   1     -32.753   1.946  31.654  0.00  0.00    -0.078 Cl
+ENDBRANCH   1  11
+TORSDOF 2

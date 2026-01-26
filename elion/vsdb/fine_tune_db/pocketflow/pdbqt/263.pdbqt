@@ -1,0 +1,15 @@
+REMARK  Name = No_263-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.009 C 
+ATOM      2  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.026 C 
+ATOM      3  C   UNL A   1     -26.504  -0.778  28.877  0.00  0.00    +0.026 C 
+ATOM      4  C   UNL A   1     -25.950   0.116  29.405  0.00  0.00    -0.026 C 
+ATOM      5  C   UNL A   1     -28.187   0.372  30.833  0.00  0.00    -0.026 C 
+ATOM      6  C   UNL A   1     -26.446   0.928  30.032  0.00  0.00    -0.005 C 
+ATOM      7  C   UNL A   1     -27.129   1.287  30.908  0.00  0.00    -0.005 C 
+ENDROOT
+TORSDOF 0

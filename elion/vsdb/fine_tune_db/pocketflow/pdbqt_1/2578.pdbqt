@@ -1,0 +1,24 @@
+REMARK  Name = No_2578-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_3  and  C_4
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -25.820   1.491  27.116  0.00  0.00    -0.082 C 
+ATOM      2  C   UNL A   1     -25.750   2.319  26.023  0.00  0.00    -0.063 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  C   UNL A   1     -24.620   3.114  25.770  0.00  0.00    +0.049 C 
+ATOM      4  C   UNL A   1     -23.434   2.881  26.560  0.00  0.00    +0.009 C 
+ENDBRANCH   2   3
+BRANCH   1   5
+ATOM      5  C   UNL A   1     -26.972   0.714  27.506  0.00  0.00    +0.102 C 
+BRANCH   5   7
+ATOM      6  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    -0.004 C 
+ATOM      7  C   UNL A   1     -27.064  -0.119  28.608  0.00  0.00    -0.012 C 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3

@@ -1,0 +1,45 @@
+MODEL 3210
+MODEL 1
+REMARK VINA RESULT:    -5.061      0.000      0.000
+REMARK INTER + INTRA:          -6.781
+REMARK INTER:                  -6.541
+REMARK INTRA:                  -0.240
+REMARK UNBOUND:                -0.240
+REMARK  Name = No_3210-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  O_7
+REMARK    2  A    between atoms: O_7  and  C_9
+REMARK    3  A    between atoms: C_9  and  C_10
+REMARK    4  A    between atoms: C_10  and  O_11
+REMARK    5  A    between atoms: O_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -24.156  -4.019  28.851  0.00  0.00    +0.037 A 
+ATOM      2  C   UNL A   1     -25.192  -4.560  29.164  0.00  0.00    +0.010 A 
+ATOM      3  C   UNL A   1     -26.227  -3.841  29.752  0.00  0.00    +0.035 A 
+ATOM      4  C   UNL A   1     -26.081  -2.440  30.050  0.00  0.00    +0.010 A 
+ATOM      5  C   UNL A   1     -24.843  -1.901  29.676  0.00  0.00    +0.037 A 
+ATOM      6  C   UNL A   1     -23.890  -2.627  29.138  0.00  0.00    +0.139 A 
+ATOM      7 BR   UNL A   1     -27.905  -4.576  30.275  0.00  0.00    -0.049 Br
+ENDROOT
+BRANCH   6   8
+ATOM      8  O   UNL A   1     -22.702  -2.034  28.839  0.00  0.00    -0.471 OA
+BRANCH   8   9
+ATOM      9  C   UNL A   1     -22.324  -0.871  29.386  0.00  0.00    +0.253 C 
+BRANCH   9  10
+ATOM     10  C   UNL A   1     -21.256  -0.188  28.739  0.00  0.00    +0.253 C 
+BRANCH  10  11
+ATOM     11  O   UNL A   1     -21.530   0.854  28.257  0.00  0.00    -0.468 OA
+BRANCH  11  12
+ATOM     12  C   UNL A   1     -22.477   1.374  27.877  0.00  0.00    +0.172 C 
+ATOM     13  C   UNL A   1     -22.772   1.828  26.864  0.00  0.00    +0.043 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   6   8
+TORSDOF 5
+ENDMDL
+ENDMDL

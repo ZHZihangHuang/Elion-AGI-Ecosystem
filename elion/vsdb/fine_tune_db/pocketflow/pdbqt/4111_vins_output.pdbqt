@@ -1,0 +1,21 @@
+MODEL 4111
+MODEL 1
+REMARK VINA RESULT:    -3.054      0.000      0.000
+REMARK INTER + INTRA:          -3.054
+REMARK INTER:                  -3.054
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_4111-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -11.107 -10.478  16.943  0.00  0.00    -0.219 OA
+ATOM      2  C   UNL A   1     -10.222 -10.333  17.657  0.00  0.00    +0.483 C 
+ATOM      3  F   UNL A   1     -10.317  -9.715  18.708  0.00  0.00    -0.132 F 
+ATOM      4  F   UNL A   1      -9.387 -11.208  17.673  0.00  0.00    -0.132 F 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

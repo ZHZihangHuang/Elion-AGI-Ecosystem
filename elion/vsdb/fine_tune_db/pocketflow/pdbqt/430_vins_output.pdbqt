@@ -1,0 +1,38 @@
+MODEL 430
+MODEL 1
+REMARK VINA RESULT:    -6.337      0.000      0.000
+REMARK INTER + INTRA:          -6.811
+REMARK INTER:                  -6.708
+REMARK INTRA:                  -0.103
+REMARK UNBOUND:                -0.103
+REMARK  Name = No_430-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  P_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.062 -12.021  31.223  0.00  0.00    +0.006 A 
+ATOM      2  C   UNL A   1     -28.613 -11.787  30.172  0.00  0.00    +0.039 A 
+ATOM      3  C   UNL A   1     -29.593 -10.807  30.017  0.00  0.00    +0.160 A 
+ATOM      4  C   UNL A   1     -30.032 -10.058  31.178  0.00  0.00    +0.105 A 
+ATOM      5  C   UNL A   1     -29.352 -10.393  32.371  0.00  0.00    +0.022 A 
+ATOM      6  C   UNL A   1     -28.445 -11.336  32.420  0.00  0.00    +0.030 A 
+ATOM      7  O   UNL A   1     -30.257 -10.521  28.847  0.00  0.00    -0.451 OA
+ATOM      8  C   UNL A   1     -31.126  -9.525  28.680  0.00  0.00    +0.160 A 
+ATOM      9  C   UNL A   1     -31.726  -9.402  27.389  0.00  0.00    +0.039 A 
+ATOM     10  C   UNL A   1     -32.192  -8.180  26.944  0.00  0.00    +0.003 A 
+ATOM     11  C   UNL A   1     -32.311  -7.153  27.956  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL A   1     -31.745  -7.351  29.217  0.00  0.00    +0.020 A 
+ATOM     13  C   UNL A   1     -31.113  -8.505  29.549  0.00  0.00    +0.105 A 
+ATOM     14  N   UNL A   1     -30.598  -8.812  30.831  0.00  0.00    -0.206 NA
+ENDROOT
+BRANCH   6  15
+ATOM     15  P   UNL A   1     -27.768 -11.830  34.035  0.00  0.00    +0.140 P 
+ATOM     16  O   UNL A   1     -28.729 -12.539  34.679  0.00  0.00    -0.354 OA
+ATOM     17  O   UNL A   1     -27.027 -10.766  34.669  0.00  0.00    -0.456 OA
+ATOM     18  O   UNL A   1     -26.633 -12.891  33.458  0.00  0.00    -0.354 OA
+ENDBRANCH   6  15
+TORSDOF 1
+ENDMDL
+ENDMDL

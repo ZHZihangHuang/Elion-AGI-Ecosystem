@@ -1,0 +1,27 @@
+MODEL 3925
+MODEL 1
+REMARK VINA RESULT:    -5.392      0.000      0.000
+REMARK INTER + INTRA:          -5.392
+REMARK INTER:                  -5.392
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_3925-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -26.386  -3.434  29.871  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL A   1     -25.465  -2.657  29.964  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL A   1     -25.612  -1.341  30.358  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL A   1     -24.712  -0.363  29.940  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL A   1     -23.460  -0.696  29.275  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL A   1     -23.296  -2.049  28.936  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL A   1     -24.295  -2.930  29.218  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL A   1     -26.128  -4.885  29.661  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL A   1     -24.968  -5.264  28.950  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL A   1     -24.012  -4.291  28.715  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

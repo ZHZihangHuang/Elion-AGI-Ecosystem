@@ -1,0 +1,26 @@
+MODEL 830
+MODEL 1
+REMARK VINA RESULT:    -3.659      0.000      0.000
+REMARK INTER + INTRA:          -3.873
+REMARK INTER:                  -3.873
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_830-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O_4
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   UNL A   1      -9.550  -9.838  18.023  0.00  0.00    +0.533 P 
+ATOM      2  O   UNL A   1      -9.836 -10.765  17.433  0.00  0.00    -0.222 OA
+ATOM      3  O   UNL A   1     -10.586  -9.007  18.597  0.00  0.00    -0.115 OA
+ATOM      4  O   UNL A   1      -8.451  -8.729  17.595  0.00  0.00    -0.115 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  O   UNL A   1      -8.491 -10.158  19.181  0.00  0.00    -0.268 OA
+ATOM      6  C   UNL A   1      -7.736  -9.115  19.848  0.00  0.00    +0.186 C 
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+ENDMDL

@@ -1,0 +1,28 @@
+MODEL 4245
+MODEL 1
+REMARK VINA RESULT:    -5.875      0.000      0.000
+REMARK INTER + INTRA:          -5.875
+REMARK INTER:                  -5.875
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_4245-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -24.602  -2.816  28.999  0.00  0.00    -0.004 A 
+ATOM      2  C   UNL A   1     -23.859  -3.526  28.767  0.00  0.00    -0.000 A 
+ATOM      3  C   UNL A   1     -25.678  -3.274  29.832  0.00  0.00    -0.000 A 
+ATOM      4  C   UNL A   1     -26.661  -2.324  30.392  0.00  0.00    -0.000 A 
+ATOM      5  C   UNL A   1     -26.261  -1.001  30.654  0.00  0.00    -0.000 A 
+ATOM      6  C   UNL A   1     -24.998  -0.567  30.200  0.00  0.00    -0.004 A 
+ATOM      7  C   UNL A   1     -24.175  -1.407  29.547  0.00  0.00    -0.022 A 
+ATOM      8  C   UNL A   1     -24.007  -4.815  28.483  0.00  0.00    -0.000 A 
+ATOM      9  C   UNL A   1     -25.224  -5.339  29.023  0.00  0.00    -0.000 A 
+ATOM     10  C   UNL A   1     -26.152  -4.547  29.669  0.00  0.00    -0.000 A 
+ATOM     11  C   UNL A   1     -22.839  -1.013  29.163  0.00  0.00    +0.031 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

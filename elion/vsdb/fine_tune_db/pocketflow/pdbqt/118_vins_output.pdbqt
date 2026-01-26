@@ -1,0 +1,35 @@
+MODEL 118
+MODEL 1
+REMARK VINA RESULT:    -7.287      0.000      0.000
+REMARK INTER + INTRA:          -7.287
+REMARK INTER:                  -7.287
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_118-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -26.582  -0.379  29.896  0.00  0.00    +0.032 C 
+ATOM      2  C   UNL A   1     -25.867  -0.015  28.992  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1     -24.509  -0.269  28.897  0.00  0.00    +0.043 A 
+ATOM      4  C   UNL A   1     -23.618   0.221  27.873  0.00  0.00    -0.009 A 
+ATOM      5  C   UNL A   1     -23.945   0.980  27.167  0.00  0.00    -0.003 A 
+ATOM      6  C   UNL A   1     -25.335   1.459  26.999  0.00  0.00    -0.001 A 
+ATOM      7  C   UNL A   1     -26.178   0.962  27.962  0.00  0.00    -0.003 A 
+ATOM      8  C   UNL A   1     -26.901  -1.829  29.920  0.00  0.00    +0.032 C 
+ATOM      9  C   UNL A   1     -26.076  -2.626  29.666  0.00  0.00    -0.008 A 
+ATOM     10  C   UNL A   1     -26.441  -4.022  29.706  0.00  0.00    -0.003 A 
+ATOM     11  C   UNL A   1     -25.550  -5.061  29.283  0.00  0.00    -0.000 A 
+ATOM     12  C   UNL A   1     -24.244  -4.639  28.918  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1     -23.843  -3.349  28.912  0.00  0.00    +0.015 A 
+ATOM     14  C   UNL A   1     -24.767  -2.330  29.234  0.00  0.00    +0.048 A 
+ATOM     15  N   UNL A   1     -24.289  -1.091  29.117  0.00  0.00    -0.288 N 
+ATOM     16  C   UNL A   1     -22.968  -0.991  29.763  0.00  0.00    +0.096 C 
+ATOM     17  C   UNL A   1     -22.216   0.022  29.336  0.00  0.00    +0.026 C 
+ATOM     18  C   UNL A   1     -22.225   0.318  28.249  0.00  0.00    +0.029 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

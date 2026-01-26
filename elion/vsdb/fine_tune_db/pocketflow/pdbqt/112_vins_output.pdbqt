@@ -1,0 +1,23 @@
+MODEL 112
+MODEL 1
+REMARK VINA RESULT:    -4.281      0.000      0.000
+REMARK INTER + INTRA:          -4.281
+REMARK INTER:                  -4.281
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_112-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -24.137  -4.912  28.601  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL A   1     -25.028  -5.303  29.007  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL A   1     -24.038  -3.456  28.698  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL A   1     -25.019  -2.696  29.285  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL A   1     -26.207  -4.756  29.677  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL A   1     -26.122  -3.347  29.775  0.00  0.00    +0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL

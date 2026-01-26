@@ -1,0 +1,37 @@
+MODEL 2113
+MODEL 1
+REMARK VINA RESULT:    -5.826      0.000      0.000
+REMARK INTER + INTRA:          -6.390
+REMARK INTER:                  -6.167
+REMARK INTRA:                  -0.223
+REMARK UNBOUND:                -0.223
+REMARK  Name = No_2113-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -9.839   0.676  37.191  0.00  0.00    -0.004 A 
+ATOM      2  C   UNL A   1      -8.725   0.352  36.849  0.00  0.00    -0.002 A 
+ATOM      3  C   UNL A   1      -8.285   0.273  35.539  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL A   1      -9.215   0.631  34.519  0.00  0.00    +0.002 A 
+ATOM      5  C   UNL A   1     -10.395   1.130  34.941  0.00  0.00    +0.049 A 
+ATOM      6  C   UNL A   1     -10.686   1.246  36.239  0.00  0.00    -0.016 A 
+ATOM      7  C   UNL A   1     -11.315   1.536  33.861  0.00  0.00    +0.249 C 
+ATOM      8  N   UNL A   1     -12.425   1.840  34.156  0.00  0.00    -0.274 N 
+ATOM      9  O   UNL A   1     -11.056   1.089  32.686  0.00  0.00    -0.270 OA
+ATOM     10  C   UNL A   1     -12.902   2.250  35.447  0.00  0.00    +0.098 C 
+ATOM     11  C   UNL A   1     -12.035   1.790  36.521  0.00  0.00    +0.048 C 
+ATOM     12  C   UNL A   1     -13.490   2.243  33.058  0.00  0.00    +0.115 C 
+ENDROOT
+BRANCH   3  13
+ATOM     13  C   UNL A   1      -6.917  -0.322  35.198  0.00  0.00    +0.147 C 
+ATOM     14  N   UNL A   1      -5.935   0.049  35.189  0.00  0.00    -0.262 NA
+ATOM     15  C   UNL A   1      -4.766  -0.624  34.798  0.00  0.00    +0.094 C 
+ATOM     16  C   UNL A   1      -5.149  -1.885  34.265  0.00  0.00    +0.018 C 
+ATOM     17  C   UNL A   1      -6.873  -1.714  34.514  0.00  0.00    +0.004 C 
+ENDBRANCH   3  13
+TORSDOF 1
+ENDMDL
+ENDMDL

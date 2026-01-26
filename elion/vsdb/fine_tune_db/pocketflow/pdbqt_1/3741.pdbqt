@@ -1,0 +1,33 @@
+REMARK  Name = No_3741-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_11
+REMARK    2  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    -0.000 A 
+ATOM      2  C   UNL A   1     -27.064  -0.119  28.608  0.00  0.00    -0.004 A 
+ATOM      3  C   UNL A   1     -26.972   0.714  27.506  0.00  0.00    -0.015 A 
+ATOM      4  C   UNL A   1     -28.105   0.774  26.642  0.00  0.00    -0.004 A 
+ATOM      5  C   UNL A   1     -28.068   1.487  25.512  0.00  0.00    -0.000 A 
+ATOM      6  C   UNL A   1     -29.269  -0.533  28.224  0.00  0.00    -0.000 A 
+ATOM      7  C   UNL A   1     -29.223   0.136  27.033  0.00  0.00    -0.000 A 
+ATOM      8  C   UNL A   1     -30.425   0.212  26.215  0.00  0.00    -0.000 A 
+ATOM      9  C   UNL A   1     -30.395   0.838  24.969  0.00  0.00    -0.000 A 
+ATOM     10  C   UNL A   1     -29.171   1.567  24.572  0.00  0.00    -0.000 A 
+ENDROOT
+BRANCH   3  11
+ATOM     11  C   UNL A   1     -25.650   1.349  27.085  0.00  0.00    +0.079 C 
+ATOM     12  C   UNL A   1     -25.776   2.785  26.811  0.00  0.00    +0.013 C 
+BRANCH  11  13
+ATOM     13  C   UNL A   1     -24.498   0.567  27.021  0.00  0.00    +0.115 C 
+ATOM     14  C   UNL A   1     -23.274   1.328  26.938  0.00  0.00    +0.006 C 
+ATOM     15  C   UNL A   1     -22.560   1.617  27.744  0.00  0.00    +0.029 C 
+ATOM     16  C   UNL A   1     -22.758   1.105  29.105  0.00  0.00    +0.009 C 
+ATOM     17  C   UNL A   1     -22.848  -0.269  29.156  0.00  0.00    +0.048 C 
+ATOM     18  C   UNL A   1     -24.123  -0.889  28.794  0.00  0.00    +0.205 C 
+ATOM     19  O   UNL A   1     -24.562  -0.615  27.425  0.00  0.00    -0.480 OA
+ENDBRANCH  11  13
+ENDBRANCH   3  11
+TORSDOF 2

@@ -1,0 +1,35 @@
+REMARK  Name = No_3866-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_7  and  C_11
+REMARK    2  A    between atoms: C_9  and  O_15
+REMARK    3  A    between atoms: O_15  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.004 A 
+ATOM      2  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.003 A 
+ATOM      3  C   UNL A   1     -28.182   0.428  28.113  0.00  0.00    +0.003 A 
+ATOM      4  C   UNL A   1     -27.450   0.643  26.850  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL A   1     -26.181   0.036  26.715  0.00  0.00    -0.000 A 
+ATOM      6  C   UNL A   1     -25.780  -0.933  27.694  0.00  0.00    +0.004 A 
+ATOM      7  C   UNL A   1     -26.557  -1.213  28.741  0.00  0.00    +0.071 A 
+ATOM      8  C   UNL A   1     -29.647  -0.224  30.221  0.00  0.00    +0.037 A 
+ATOM      9  C   UNL A   1     -30.050   0.840  29.348  0.00  0.00    +0.145 A 
+ATOM     10  C   UNL A   1     -29.356   1.139  28.211  0.00  0.00    +0.037 A 
+ENDROOT
+BRANCH   7  11
+ATOM     11  C   UNL A   1     -25.990  -2.307  29.629  0.00  0.00    +0.419 C 
+ATOM     12  F   UNL A   1     -25.452  -3.072  29.065  0.00  0.00    -0.166 F 
+ATOM     13  F   UNL A   1     -25.272  -1.695  30.675  0.00  0.00    -0.166 F 
+ATOM     14  F   UNL A   1     -27.067  -2.922  30.376  0.00  0.00    -0.166 F 
+ENDBRANCH   7  11
+BRANCH   9  15
+ATOM     15  O   UNL A   1     -31.255   1.527  29.650  0.00  0.00    -0.451 OA
+BRANCH  15  16
+ATOM     16  C   UNL A   1     -31.321   2.219  30.754  0.00  0.00    +0.175 C 
+ATOM     17  C   UNL A   1     -30.554   2.702  31.392  0.00  0.00    +0.015 C 
+ATOM     18  C   UNL A   1     -30.733   3.482  32.612  0.00  0.00    +0.034 C 
+ENDBRANCH  15  16
+ENDBRANCH   9  15
+TORSDOF 3

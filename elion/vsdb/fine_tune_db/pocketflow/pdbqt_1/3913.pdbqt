@@ -1,0 +1,33 @@
+REMARK  Name = No_3913-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C_7
+REMARK    2  A    between atoms: C_7  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -28.123  -1.335  28.487  0.00  0.00    -0.274 OA
+ATOM      2  C   UNL A   1     -27.481  -0.404  28.709  0.00  0.00    +0.236 C 
+ATOM      3  N   UNL A   1     -27.241   0.391  29.510  0.00  0.00    -0.222 N 
+ATOM      4  C   UNL A   1     -26.407  -0.107  27.450  0.00  0.00    +0.112 C 
+ATOM      5  C   UNL A   1     -25.436   0.847  27.634  0.00  0.00    -0.009 A 
+ATOM      6  C   UNL A   1     -24.397   1.108  26.681  0.00  0.00    -0.004 A 
+ATOM      7  C   UNL A   1     -23.338   2.030  27.092  0.00  0.00    -0.000 A 
+ATOM      8  C   UNL A   1     -23.186   2.262  28.431  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL A   1     -24.027   1.814  29.383  0.00  0.00    +0.004 A 
+ATOM     10  C   UNL A   1     -25.075   1.093  29.041  0.00  0.00    +0.051 A 
+ATOM     11  C   UNL A   1     -26.056   1.082  29.891  0.00  0.00    +0.255 C 
+ATOM     12  O   UNL A   1     -25.977   1.699  31.032  0.00  0.00    -0.270 OA
+ENDROOT
+BRANCH   3  13
+ATOM     13  C   UNL A   1     -28.111   0.230  30.716  0.00  0.00    +0.128 C 
+BRANCH  13  14
+ATOM     14  C   UNL A   1     -29.413   0.669  30.285  0.00  0.00    -0.002 A 
+ATOM     15  C   UNL A   1     -29.846   1.527  30.885  0.00  0.00    -0.003 A 
+ATOM     16  C   UNL A   1     -31.125   2.149  30.451  0.00  0.00    -0.000 A 
+ATOM     17  C   UNL A   1     -31.824   1.540  29.413  0.00  0.00    -0.000 A 
+ATOM     18  C   UNL A   1     -31.270   0.479  28.761  0.00  0.00    -0.000 A 
+ATOM     19  C   UNL A   1     -30.035   0.012  29.157  0.00  0.00    -0.003 A 
+ENDBRANCH  13  14
+ENDBRANCH   3  13
+TORSDOF 2

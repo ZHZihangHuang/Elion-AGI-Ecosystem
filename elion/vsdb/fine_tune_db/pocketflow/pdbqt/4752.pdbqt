@@ -1,0 +1,36 @@
+REMARK  Name = No_4752-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  O_9
+REMARK    2  A    between atoms: O_9  and  C_10
+REMARK    3  A    between atoms: C_15  and  O_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -25.827   2.113  29.237  0.00  0.00    -0.449 OA
+ENDROOT
+BRANCH   1   5
+ATOM      2  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.026 A 
+ATOM      3  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.060 A 
+ATOM      4  C   UNL A   1     -27.087   0.290  28.638  0.00  0.00    +0.094 A 
+ATOM      5  C   UNL A   1     -26.768   1.027  29.472  0.00  0.00    +0.166 A 
+ATOM      6  C   UNL A   1     -28.276   0.027  31.015  0.00  0.00    +0.026 A 
+ATOM      7  C   UNL A   1     -27.329   1.054  30.753  0.00  0.00    +0.094 A 
+ATOM      8 CL   UNL A   1     -26.291   0.287  27.061  0.00  0.00    -0.079 Cl
+ATOM      9 CL   UNL A   1     -29.608  -2.190  30.092  0.00  0.00    -0.082 Cl
+ATOM     10 CL   UNL A   1     -26.990   2.171  32.038  0.00  0.00    -0.079 Cl
+ENDBRANCH   1   5
+BRANCH   1  11
+ATOM     11  C   UNL A   1     -24.556   1.821  29.119  0.00  0.00    +0.179 A 
+ATOM     12  C   UNL A   1     -23.797   1.300  30.067  0.00  0.00    +0.043 A 
+ATOM     13  C   UNL A   1     -22.515   0.846  29.886  0.00  0.00    +0.033 A 
+ATOM     14  C   UNL A   1     -21.963   0.855  28.599  0.00  0.00    +0.143 A 
+ATOM     15  C   UNL A   1     -22.702   1.515  27.566  0.00  0.00    +0.070 A 
+ATOM     16  C   UNL A   1     -24.018   1.979  27.804  0.00  0.00    +0.175 A 
+ATOM     17  F   UNL A   1     -20.793   0.429  28.398  0.00  0.00    -0.204 F 
+BRANCH  16  18
+ATOM     18  O   UNL A   1     -24.648   2.563  26.824  0.00  0.00    -0.468 OA
+ATOM     19  C   UNL A   1     -24.061   3.771  26.325  0.00  0.00    +0.253 C 
+ENDBRANCH  16  18
+ENDBRANCH   1  11
+TORSDOF 3

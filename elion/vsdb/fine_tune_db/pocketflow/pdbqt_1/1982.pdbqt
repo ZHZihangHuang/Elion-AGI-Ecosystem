@@ -1,0 +1,31 @@
+REMARK  Name = No_1982-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.082 A 
+ATOM      2  C   UNL A   1     -28.182   0.428  28.113  0.00  0.00    +0.002 A 
+ATOM      3  C   UNL A   1     -27.450   0.643  26.850  0.00  0.00    +0.002 A 
+ATOM      4  C   UNL A   1     -26.181   0.036  26.715  0.00  0.00    -0.005 A 
+ATOM      5  C   UNL A   1     -25.780  -0.933  27.694  0.00  0.00    +0.011 A 
+ATOM      6  C   UNL A   1     -26.557  -1.213  28.741  0.00  0.00    +0.061 A 
+ATOM      7 CL   UNL A   1     -25.852  -2.472  29.695  0.00  0.00    -0.082 Cl
+ATOM      8  C   UNL A   1     -27.800   1.738  26.032  0.00  0.00    +0.151 C 
+ATOM      9  N   UNL A   1     -28.024   1.477  24.770  0.00  0.00    -0.269 NA
+ATOM     10  C   UNL A   1     -27.649   0.462  24.241  0.00  0.00    +0.067 C 
+ATOM     11  C   UNL A   1     -27.185  -0.570  25.071  0.00  0.00    +0.045 C 
+ATOM     12  C   UNL A   1     -25.580   0.316  25.600  0.00  0.00    -0.026 C 
+ATOM     13  C   UNL A   1     -26.065  -1.138  24.139  0.00  0.00    +0.032 C 
+ATOM     14  C   UNL A   1     -25.188  -0.275  24.548  0.00  0.00    -0.030 C 
+ATOM     15  C   UNL A   1     -25.104   1.774  25.838  0.00  0.00    +0.031 C 
+ATOM     16  C   UNL A   1     -28.224  -1.707  24.371  0.00  0.00    +0.007 C 
+ENDROOT
+BRANCH   1  17
+ATOM     17  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.419 C 
+ATOM     18  F   UNL A   1     -29.662  -0.440  29.966  0.00  0.00    -0.166 F 
+ATOM     19  F   UNL A   1     -27.843  -0.501  31.027  0.00  0.00    -0.166 F 
+ATOM     20  F   UNL A   1     -28.716  -2.251  30.133  0.00  0.00    -0.166 F 
+ENDBRANCH   1  17
+TORSDOF 1

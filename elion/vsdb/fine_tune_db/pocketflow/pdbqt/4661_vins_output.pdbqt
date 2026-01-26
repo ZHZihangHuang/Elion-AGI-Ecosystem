@@ -1,0 +1,29 @@
+MODEL 4661
+MODEL 1
+REMARK VINA RESULT:    -5.290      0.000      0.000
+REMARK INTER + INTRA:          -5.745
+REMARK INTER:                  -5.599
+REMARK INTRA:                  -0.146
+REMARK UNBOUND:                -0.146
+REMARK  Name = No_4661-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -26.532  -3.856  29.868  0.00  0.00    -0.000 A 
+ATOM      2  C   UNL A   1     -26.191  -4.814  29.595  0.00  0.00    -0.000 A 
+ATOM      3  C   UNL A   1     -25.565  -2.753  29.750  0.00  0.00    -0.000 A 
+ATOM      4  C   UNL A   1     -24.286  -2.971  29.160  0.00  0.00    -0.000 A 
+ATOM      5  C   UNL A   1     -24.004  -4.264  28.795  0.00  0.00    -0.000 A 
+ATOM      6  C   UNL A   1     -24.921  -5.243  28.950  0.00  0.00    -0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL A   1     -23.333  -1.901  29.019  0.00  0.00    -0.005 C 
+ATOM      8  C   UNL A   1     -23.601  -0.726  28.600  0.00  0.00    -0.026 C 
+ATOM      9  C   UNL A   1     -22.650   0.391  28.668  0.00  0.00    +0.031 C 
+ENDBRANCH   4   7
+TORSDOF 1
+ENDMDL
+ENDMDL

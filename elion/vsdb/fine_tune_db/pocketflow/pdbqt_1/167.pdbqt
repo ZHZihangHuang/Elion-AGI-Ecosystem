@@ -1,0 +1,35 @@
+REMARK  Name = No_167-gen_results/8p0m/2024-11-26-14-13-15/
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_15  and  O_18
+REMARK    2  A    between atoms: N_17  and  N_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -28.016  -0.814  28.878  0.00  0.00    +0.046 A 
+ATOM      2  C   UNL A   1     -28.469  -0.785  29.829  0.00  0.00    +0.141 A 
+ATOM      3  C   UNL A   1     -26.504  -0.778  28.877  0.00  0.00    +0.072 A 
+ATOM      4  C   UNL A   1     -25.810  -0.853  30.103  0.00  0.00    -0.007 A 
+ATOM      5  C   UNL A   1     -27.991  -0.892  31.226  0.00  0.00    +0.029 A 
+ATOM      6  C   UNL A   1     -26.604  -0.868  31.265  0.00  0.00    -0.001 A 
+ATOM      7  F   UNL A   1     -29.920  -0.833  29.824  0.00  0.00    -0.204 F 
+ATOM      8  C   UNL A   1     -24.380  -0.802  30.142  0.00  0.00    +0.028 C 
+ATOM      9  C   UNL A   1     -23.662  -1.365  30.715  0.00  0.00    +0.005 C 
+ATOM     10  C   UNL A   1     -23.815  -0.279  28.836  0.00  0.00    +0.032 C 
+ATOM     11  C   UNL A   1     -24.132   0.757  28.058  0.00  0.00    -0.003 A 
+ATOM     12  C   UNL A   1     -23.727   1.806  27.858  0.00  0.00    -0.003 A 
+ATOM     13  C   UNL A   1     -24.209   2.824  26.892  0.00  0.00    +0.003 A 
+ATOM     14  C   UNL A   1     -25.384   2.492  26.220  0.00  0.00    +0.038 A 
+ATOM     15  C   UNL A   1     -25.899   1.276  26.421  0.00  0.00    +0.154 A 
+ATOM     16  C   UNL A   1     -25.368   0.401  27.277  0.00  0.00    +0.104 A 
+ATOM     17  N   UNL A   1     -25.705   0.012  28.041  0.00  0.00    -0.188 N 
+ENDROOT
+BRANCH  15  18
+ATOM     18  O   UNL A   1     -26.519   0.033  27.352  0.00  0.00    -0.470 OA
+ATOM     19  C   UNL A   1     -27.497  -0.358  26.566  0.00  0.00    +0.253 C 
+ENDBRANCH  15  18
+BRANCH  17  20
+ATOM     20  N   UNL A   1     -26.076   0.871  28.899  0.00  0.00    -0.171 NA
+ATOM     21  C   UNL A   1     -26.976   1.849  28.971  0.00  0.00    +0.140 C 
+ENDBRANCH  17  20
+TORSDOF 2

@@ -1,0 +1,25 @@
+MODEL 737
+MODEL 1
+REMARK VINA RESULT:    -4.857      0.000      0.000
+REMARK INTER + INTRA:          -4.857
+REMARK INTER:                  -4.857
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = No_737-gen_results/8p0m/2024-11-27-11-27-31/
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL A   1     -10.207  -8.649  20.526  0.00  0.00    -0.273 OA
+ATOM      2  C   UNL A   1      -9.715  -9.255  19.679  0.00  0.00    +0.241 C 
+ATOM      3  C   UNL A   1      -8.813  -9.815  19.454  0.00  0.00    +0.078 C 
+ATOM      4  N   UNL A   1     -10.707  -9.412  18.500  0.00  0.00    -0.205 NA
+ATOM      5  C   UNL A   1      -8.244 -10.579  18.335  0.00  0.00    +0.011 C 
+ATOM      6  C   UNL A   1     -10.336 -10.003  17.461  0.00  0.00    +0.115 C 
+ATOM      7  C   UNL A   1      -9.114 -10.658  17.280  0.00  0.00    +0.024 C 
+ATOM      8  C   UNL A   1      -7.695  -9.844  20.651  0.00  0.00    +0.010 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+ENDMDL
